@@ -36,5 +36,17 @@ npx expo start --tunnel
 Призначення: Тестування без фізичного пристрою.
 Особливості: Запуск на віртуальному Android (через Android Studio) або iOS (через XCode).
 Відмінності: Зручно для перевірки верстки на різних розмірах екранів, але вимагає значних ресурсів комп'ютера (ОЗП, процесор) для роботи віртуальної машини.
+
 Скріншоти додатку
+
 Головний екран
+<img width="1170" height="2532" alt="photo_2026-05-27_23-42-26" src="https://github.com/user-attachments/assets/39cf1f13-3913-4bdd-8212-96207207a288" />
+
+Галерея
+<img width="1170" height="2532" alt="photo_2026-05-27_23-41-56" src="https://github.com/user-attachments/assets/02b4ee76-0902-4a36-afc3-31538d478fee" />
+
+Профіль
+<img width="1170" height="2532" alt="photo_2026-05-27_23-43-33" src="https://github.com/user-attachments/assets/aff3cd45-6850-4347-9bde-f1fd08a5adba" />
+
+
+
